@@ -12,6 +12,18 @@
 			</div>
 			<div class="space-y-2 sm:space-y-4">
 				<div class="grid grid-cols-1 sm:grid-cols-3">
+					<img src="/pf_img/sum3_1.jpg" alt="Photo du groupe Elektre au festival des Aiguilleurs" class="" />
+					<img src="/pf_img/sum3_2.jpg" alt="Photo n°2 du groupe Elektre au festival des Aiguilleurs" class="" />
+					<img src="/pf_img/sum3_4.jpg" alt="Photo n°3 du groupe Elektre au festival des Aiguilleurs" class="" />
+				</div>
+				<div class="grid grid-cols-1 sm:grid-cols-2">
+					<img src="/pf_img/sum3_3.jpg" alt="Photo du groupe Elektre au festival des Aiguilleurs" class="" />
+					<img src="/pf_img/sum3_5.jpg" alt="Photo n°2 du groupe Elektre au festival des Aiguilleurs" class="" />
+				</div>
+				<legend class="text-white/50 italic">Sum Case #3, Sèvres, 2025</legend>
+			</div>
+			<div class="space-y-2 sm:space-y-4">
+				<div class="grid grid-cols-1 sm:grid-cols-3">
 					<img src="/pf_img/aiguilleurs_1.jpg" alt="Photo du groupe Elektre au festival des Aiguilleurs" class="" />
 					<img src="/pf_img/aiguilleurs_2.jpg" alt="Photo n°2 du groupe Elektre au festival des Aiguilleurs" class="" />
 					<img src="/pf_img/aiguilleurs_3.jpg" alt="Photo n°3 du groupe Elektre au festival des Aiguilleurs" class="" />

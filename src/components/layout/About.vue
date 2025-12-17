@@ -6,7 +6,7 @@
 				<img src="/moi.jpg" alt="Photo de moi-même, prise par Bastian Noël" class="rounded-full w-48 h-auto max-md:mx-auto" />
 			</div>
 			<div class="block space-y-2 sm:flex-1">
-				<p>Bref, j'ai tout juste 17 ans et je suis actuellement en 1ère année de BUT MMI (Métiers du Multimédia et de l'Internet) à l'IUT de Vélizy. Passionné par la programmation, la musique et la photographie, je consacre mon temps libre à marier esthétique et fonctionnalité. Mon objectif ? Rendre le monde agréable à regarder.</p>
+				<p>Bref. J'ai tout juste 17 ans et je suis actuellement en 1ère année de BUT MMI (Métiers du Multimédia et de l'Internet) à l'IUT de Vélizy. Passionné par la programmation, la musique et la photographie, je consacre mon temps libre à marier esthétique et fonctionnalité. Mon objectif ? Rendre le monde agréable à regarder.</p>
 				<p class="text-white/75">📸 Photo prise par <a href="https://bastiannoel.com" class="underline decoration-[1.5px] decoration-transparent underline-offset-4 duration-150 hover:decoration-white/75">Bastian Noël</a></p>
 			</div>
 		</div>

@@ -57,8 +57,20 @@
 					'python',
 					'vue',
 					'tailwind',
-					'node',
 					'express',
+				]"
+			/>
+			<Skill
+				field="Outils & Librairies"
+				:keys="[
+					'node',
+					'git',
+					'vscode',
+					'pycord',
+				]"
+				:learning="[
+					'psql',
+					'docker'
 				]"
 			/>
 			<Skill
@@ -66,23 +78,12 @@
 				:keys="[
 					'canva',
 					'figma',
-					'photoshop',
-					'illustrator',
 					'lightroom',
 					'resolve'
 				]"
-			/>
-			<Skill
-				field="Outils & Librairies"
-				:keys="[
-					'git',
-					'vscode',
-					'psql',
-					'pycord',
-					'turbowarp'
-				]"
 				:learning="[
-					'docker'
+					'photoshop',
+					'illustrator'
 				]"
 			/>
 		</div>
