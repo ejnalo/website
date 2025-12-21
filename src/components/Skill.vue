@@ -40,34 +40,18 @@
 		<h3 class="text-2xl font-semibold sm:text-3xl max-lg:text-left">{{ field }}</h3>
 		<ul class="text-left space-y-4">
 			<li v-for="skill in skills" class="flex items-center gap-2">
-				<img :src="'/skills/' + skill.icon" class="inline-block w-10 h-10" />
-				<div class="flex-col items-center -translate-y-1">
+				<img :src="'/skills/' + skill.icon" class="inline-block w-8 h-8" />
+				<div class="flex-col items-center">
 					<span class="block text-lg font-medium">{{ skill.label }}</span>
-					<div class="bg-white/15 rounded-full w-20 h-1">
-						<div
-							class="rounded-full h-1"
-							:class="skill.mastery >= 60 ? 'bg-emerald-400/50' : 'bg-white/50'"
-							:style="{ width: skill.mastery + '%' }"
-						>
-						</div>
-					</div>
 				</div>
 			</li>
 		</ul>
 		<h4 v-if="learning" class="text-xl font-semibold sm:text-2xl">En apprentissage</h4>
 		<ul v-if="learning" class="text-left space-y-4">
 			<li v-for="skill in skills_learning" class="flex items-center gap-2">
-				<img :src="'/skills/' + skill.icon" class="inline-block w-10 h-10" />
-				<div class="flex-col items-center -translate-y-1">
+				<img :src="'/skills/' + skill.icon" class="inline-block w-8 h-8" />
+				<div class="flex-col items-center">
 					<span class="block text-lg font-medium">{{ skill.label }}</span>
-					<div class="bg-white/15 rounded-full w-20 h-1">
-						<div
-							class="rounded-full h-1"
-							:class="skill.mastery >= 60 ? 'bg-emerald-400/50' : 'bg-white/50'"
-							:style="{ width: skill.mastery + '%' }"
-						>
-						</div>
-					</div>
 				</div>
 			</li>
 		</ul>
