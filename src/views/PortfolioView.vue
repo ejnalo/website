@@ -11,6 +11,15 @@
 				<p class="text-white/50 italic">Préférer l'image aux mots</p>
 			</div>
 			<div>
+				<div class="grid grid-cols-1 sm:grid-cols-2">
+					<img src="https://live.staticflickr.com/65535/55006469340_7c2f65bd50_b.jpg" alt="" class="" />
+					<img src="https://live.staticflickr.com/65535/55006469320_f7698fae33_b.jpg" alt="" class="" />
+					<img src="https://live.staticflickr.com/65535/55006329618_43941d1573_b.jpg" alt="" class="" />
+					<img src="https://live.staticflickr.com/65535/55006329628_71929ea731_b.jpg" alt="" class="" />
+				</div>
+				<legend class="text-white/50 italic mt-2 sm:mt-4"><a href="https://www.flickr.com/gp/ejnalo/7qhJvZi98o">Shooting entre amis, Paris, 2025</a></legend>
+			</div>
+			<div>
 				<div class="grid grid-cols-1 sm:grid-cols-3">
 					<img src="/pf_img/sum3_1.jpg" alt="Photo du groupe Elektre au festival des Aiguilleurs" class="" />
 					<img src="/pf_img/sum3_2.jpg" alt="Photo n°2 du groupe Elektre au festival des Aiguilleurs" class="" />
