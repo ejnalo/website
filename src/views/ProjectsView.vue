@@ -27,29 +27,22 @@
 				<Project
 					title="MMI.codes"
 					description="Portail pour les étudiants du BUT MMI de Vélizy"
-					link="https://github.com/MMI-CODES"
+					link="https://mmi.codes"
 					image="/banner_mmi.png"
 					:focused="false"
 				/>
 				<Project
-					title="Better CELCAT"
-					description="Un emploi du temps plus beau que CELCAT"
-					link="https://celcat.pages.dev"
-					image="/bcelcat.png"
+					title="Vencat"
+					description="Site permettant aux MMI de Vélizy de consulter leur emploi du temps"
+					link="https://vencat.mmi.codes"
+					image="/vencat.png"
 					:focused="false"
 				/>
 				<Project
-					title="ArrowBit"
-					description="Interpréteur de langage en ligne de commande"
-					link="https://github.com/arrowbitlang"
-					image="/banner_bow.png"
-					:focused="false"
-				/>
-				<Project
-					title="Nation"
-					description="Démocratie 100% française sur Discord"
-					link="https://github.com/1nserv"
-					image="https://nationserver.pages.dev/banner.png"
+					title="Beam"
+					description="Réseau social en plein développement"
+					link="https://beam.ejnalo.me"
+					image="/banner_beam.png"
 					:focused="false"
 				/>
 			</div>
