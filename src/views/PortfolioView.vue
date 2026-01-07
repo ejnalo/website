@@ -12,8 +12,8 @@
 			</div>
 			<div>
 				<div class="grid grid-cols-1 sm:grid-cols-2">
-					<img src="https://live.staticflickr.com/65535/55006469340_7c2f65bd50_b.jpg" alt="" class="" />
 					<img src="https://live.staticflickr.com/65535/55006469320_f7698fae33_b.jpg" alt="" class="" />
+					<img src="https://live.staticflickr.com/65535/55006469340_7c2f65bd50_b.jpg" alt="" class="" />
 					<img src="https://live.staticflickr.com/65535/55006329618_43941d1573_b.jpg" alt="" class="" />
 					<img src="https://live.staticflickr.com/65535/55006329628_71929ea731_b.jpg" alt="" class="" />
 				</div>
@@ -21,13 +21,13 @@
 			</div>
 			<div>
 				<div class="grid grid-cols-1 sm:grid-cols-3">
-					<img src="/pf_img/sum3_1.jpg" alt="Photo du groupe Elektre au festival des Aiguilleurs" class="" />
-					<img src="/pf_img/sum3_2.jpg" alt="Photo n°2 du groupe Elektre au festival des Aiguilleurs" class="" />
-					<img src="/pf_img/sum3_4.jpg" alt="Photo n°3 du groupe Elektre au festival des Aiguilleurs" class="" />
+					<img src="https://live.staticflickr.com/65535/55029469924_510e66eaa4_b.jpg" alt="Photo du groupe KALUPTO au Sum Case #3" class="" />
+					<img src="https://live.staticflickr.com/65535/55028316852_b4c1814dca_b.jpg" alt="Photo n°2 du groupe KALUPTO au Sum Case #3" class="" />
+					<img src="https://live.staticflickr.com/65535/55028316797_f2428651ef_b.jpg" alt="Photo n°3 du groupe KALUPTO au Sum Case #3" class="" />
 				</div>
 				<div class="grid grid-cols-1 sm:grid-cols-2">
-					<img src="/pf_img/sum3_3.jpg" alt="Photo du groupe Elektre au festival des Aiguilleurs" class="" />
-					<img src="/pf_img/sum3_5.jpg" alt="Photo n°2 du groupe Elektre au festival des Aiguilleurs" class="" />
+					<img src="https://live.staticflickr.com/65535/55029547770_47488e37ea_b.jpg" alt="Photo n°4 du groupe KALUPTO au Sum Case #3" class="" />
+					<img src="https://live.staticflickr.com/65535/55029396623_dd2fee0776_b.jpg" alt="Photo n°5 du groupe KALUPTO au Sum Case #3" class="" />
 				</div>
 				<legend class="text-white/50 italic mt-2 sm:mt-4">Sum Case #3, Sèvres, 2025</legend>
 			</div>
